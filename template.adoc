@@ -1,0 +1,20 @@
+= Title
+
+:sectnums:
+
+[.text-center]
+Place +
+Date +
+
+== Section
+
+
+
+
+
+*Respectfully submitted,*
+
+image::signature.jpg[150,150]
+
+Hector Quemada +
+Clerk of Consistory

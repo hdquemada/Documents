@@ -1,0 +1,23 @@
+.nr PO 1i
+.nr LL 6.5i
+.nr PS 11000
+.nr FL \n[LL]*7/8
+.nr FF 0
+.TL
+
+.AU
+Hector Quemada
+.IN
+
+.NH
+My first section
+.LP
+My first paragraph
+.NH 2 
+My first subsection
+.LP
+Another paragraph under subsection, with a footnote.
+\** 
+.FS 
+Text of the footnote.
+.FE
