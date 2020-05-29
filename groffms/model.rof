@@ -48,83 +48,54 @@ Interestingly, in this case,
 the .ce request breaks the line at the comma,
 generating two lines of centered text.
 Here is some example text:
-Some Bell Labs localisms are not implemented by default.
-However,
-if you call the otherwise undocumented SC section-header macro,
-you will enable implementations of three other archaic Bell Labs macros:
-UC, P1, and P2.
-These are not enabled by default because (a)~they were not documented,
-in the original ms manual,
-and (b)~the P1 and UC macros both collide with different macros in the Berkeley version of ms.
-These emulations are sufficient to give back the 1976 Kernighan~& Cherry paper Typsetting Mathematics - User's Guide its section headings,
-and restore some text that had gone missing as arguments of undefined macros.
-No warranty express or implied is given as to how well the typographic details these produce match the original Bell Labs macros.
+Sunt laboris enim et culpa enim quis nulla amet cupidatat incididunt laboris cillum.
+Consequat quis commodo nostrud velit aute eiusmod adipisicing quis aliquip velit id.
+Non fugiat occaecat pariatur ad.
+Tempor elit culpa ut velit proident id irure ad magna minim sint mollit enim.
+Ullamco deserunt dolor est in nulla ipsum adipisicing consectetur voluptate est.
 .PP
 This paragraph is written using the .PP macro, which indents the first line.
-Some Bell Labs localisms are not implemented by default. However, if you call the otherwise undocumented SC section-header macro,
-you will enable implementations of three other archaic BellLabs macros: UC, P1, and P2.
-These are not enabled by default because (a)~they were not documented, 
-in the original ms manual,
-and (b)~the P1 and UC macros both collide with different macros in the Berkeley version of ms.
+Nulla pariatur aliquip ea voluptate sit cupidatat.
+Commodo ex proident esse minim ex dolor reprehenderit magna aliqua proident officia.
+Dolor non incididunt amet aute ea proident esse.
+Incididunt esse sit ea ullamco do dolor irure officia sint sunt dolor.
+Amet veniam reprehenderit culpa labore Lorem ex ullamco sit reprehenderit nostrud incididunt nulla.
+Commodo veniam dolor velit aliqua veniam id tempor.
 .QP
 This paragraph uses the macro .QP.
-Some Bell Labs localisms are not implemented by default.
-However,
-if you call the otherwise undocumented SC section-header macro,
-you will enable implementations of three other archaic Bell Labs macros: UC, P1, and P2.
-These are not enabled by default because (a)~they were not documented, 
-in the original ms manual,
-and (b)~the P1 and UC macros both collide with different macros in the Berkeley version of ms.
-These emulations are sufficient to give back the 1976 Kernighan~& Cherry  paper Typsetting Mathematics - User's Guide its section headings,
-and restore some text that had  gone missing as arguments of undefined macros.
+Nulla enim aliquip aliqua cillum commodo id fugiat proident labore aliquip occaecat Lorem voluptate fugiat.
+Nisi laborum laboris occaecat voluptate et elit ea culpa fugiat aute dolor irure.
+Sunt aliqua culpa id incididunt.
+Consectetur esse reprehenderit occaecat dolore dolor velit nostrud laboris eiusmod dolore ullamco deserunt.
 .XP
 This paragraph uses the .XP macro.
-Some Bell Labs localisms are not implemented by default. However, if you call the otherwise undocumented SC section-header macro,
-you will enable implementations of three other archaic Bell Labs macros: UC, P1, and P2.
-These are not enabled by default because (a)~they were not documented,
-in the original ms manual,
-and (b)~the P1 and UC macros both collide with different macros in the Berkeley 
-version of ms.
+Labore sunt tempor incididunt labore laboris ea laborum est veniam.
+Ea eiusmod dolor enim elit ipsum enim labore irure eiusmod ipsum irure occaecat reprehenderit fugiat.
+Consectetur est do sit laboris reprehenderit quis ut elit.
 .NH 2
 This is a second level heading
 .LP 
-Some Bell Labs localisms are not implemented by default. However, if you call 
-the otherwise undocumented SC section-header macro, you will enable implementations of three other 
-archaic Bell Labs macros: UC, P1, and P2. These are not enabled by default because (a)~they were not 
-documented, in the original ms manual, and (b)~the P1 and UC macros both collide with different macros 
-in the Berkeley version of ms. These emulations are sufficient to give back the 1976 Kernighan~& Cherry 
-paper Typsetting Mathematics - User's Guide its section headings, and restore some text that had gone 
-missing as arguments of undefined macros. No warranty express or implied is given as to how well the 
-typographic details these produce match the original Bell Labs macros.
+Veniam cillum incididunt culpa tempor Lorem eu est in.
+Sunt deserunt ea aute velit ea do aliqua.
+Elit minim ut culpa sit voluptate adipisicing et eu cupidatat consequat ad nisi sit.
 .SH
 This is a top level unnumbered heading
 .LP
-Some Bell Labs localisms are not implemented by default. However, if you call the otherwise 
-undocumented SC section-header macro, you will enable implementations of three other archaic Bell Labs 
-macros: UC, P1, and P2. These are not enabled by default because (a)~they were not documented, in the 
-original ms manual, and (b)~the P1 and UC macros both collide with different macros in the Berkeley 
-version of ms. These emulations are sufficient to give back the 1976 Kernighan~& Cherry paper 
-Typsetting Mathematics - User's Guide its section headings, and restore some text that had gone missing 
-as arguments of undefined macros. No warranty express or implied is given as to how well the 
-typographic details these produce match the original Bell Labs macros. Some Bell Labs localisms are not 
-implemented by default. However, if you call the otherwise undocumented SC section-header macro, you 
-will enable implementations of three other archaic Bell Labs macros: UC, P1, and P2. These are not 
-enabled by default because (a)~they were not documented, in the original ms manual, and (b)~the P1 and 
-UC macros both collide with different macros in the Berkeley version of ms. These emulations are 
-sufficient to give back the 1976 Kernighan~& Cherry paper Typsetting Mathematics - User's Guide its 
-section headings, and restore some text that had gone missing as arguments of undefined macros. No 
-warranty express or implied is given as to how well the typographic details these produce match the 
-original Bell Labs macros. This is the first statement I want to footnote.
+Ullamco irure consequat ut laboris non esse.
+Eiusmod fugiat anim consequat incididunt laboris veniam laboris incididunt cupidatat cillum.
+Nostrud aliqua excepteur eu officia quis ut dolor ad sint et irure ad ex.
+Laborum consequat nostrud voluptate voluptate aliqua.
+Ad qui culpa est cupidatat aliquip ad qui anim quis ea.
+Ullamco qui in tempor cillum cillum esse proident voluptate minim velit amet.
+Sint minim aliqua dolor ut cupidatat anim incididunt eiusmod consectetur tempor dolore do ad.
+This is the first statement I want to footnote.
 \** 
 .FS
-Some Bell Labs localisms are not implemented by default. However, if 
-you call the otherwise undocumented SC section-header macro, you will enable implementations of three 
-other archaic Bell Labs macros: UC, P1, and P2. These are not enabled by default because (a)~they were 
-not documented, in the original ms manual, and (b)~the P1 and UC macros both collide with different 
-macros in the Berkeley version of ms. These emulations are sufficient to give back the 1976 Kernighan~& 
-Cherry paper Typsetting Mathematics - User's Guide its section headings, and restore some text that had 
-gone missing as arguments of undefined macros. No warranty express or implied is given as to how well 
-the typographic details these produce match the original Bell Labs macros. 
+Aliquip amet irure aliqua et qui.
+Ad occaecat fugiat consectetur fugiat sit irure.
+Enim irure ad tempor Lorem in dolore laborum ea occaecat.
+Minim in commodo et amet officia eiusmod fugiat ad est enim eiusmod velit.
+Eiusmod officia irure do excepteur velit adipisicing sunt minim officia dolore ea adipisicing. 
 .FE
 
 This is another statement I want to footnote.
